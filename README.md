@@ -1,15 +1,31 @@
+Hi, I'm Priyadarshi. Building backend systems and applied AI: concurrent services, retrieval pipelines, and multimodal models that have to run in production.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/priyadarshi-satyakam-688127290/) 
+## Stack
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=priyadarshi7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=priyadarshi7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyadarshi7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Languages:** C++, Python, TypeScript, JavaScript
+**Web:** React, Next.js, Tailwind CSS, Node.js, Express, FastAPI, Kafka
+**AI/ML:** RAG, hybrid search, reranking, LangChain, LangGraph, Hugging Face, Ollama, MCP
+**Data:** PostgreSQL, MongoDB, MySQL, Redis, Qdrant
+**Infra:** Docker, Nginx, GitHub Actions, AWS (EC2, S3)
 
----
-[![](https://visitcount.itsvg.in/api?id=priyadarshi7&icon=0&color=0)](https://visitcount.itsvg.in)
+## Hackathons
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Winner: HackPrix 2.0 (150+ teams), HackByte 3.0, Midnight Blockchain track (125+ teams), DSU Dev Hack 2.0, MongoDB track (100+ teams).
+Runner-up: Hack-o-Harbor, IIIT Naya Raipur. Special mention: GHR Hacks 1.0.
+
+## Contact
+
+priyadarshisatyakam77@gmail.com · [LinkedIn](https://www.linkedin.com/in/priyadarshi-satyakam)
+
+## Activity
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=priyadarshi7&show_icons=true&hide_border=true&count_private=true&theme=dark&bg_color=0d1117&hide=contribs&card_width=420">
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=priyadarshi7&show_icons=true&hide_border=true&count_private=true&hide=contribs&card_width=420">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=priyadarshi7&theme=dark&hide_border=true&background=0d1117">
+    <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=priyadarshi7&hide_border=true">
+  </picture>
+</p>
